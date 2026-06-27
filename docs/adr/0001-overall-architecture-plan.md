@@ -1,7 +1,7 @@
 # ADR 0001: Overall Architecture and Phased Implementation Plan
 
 ## Status
-Proposed
+Accepted
 
 ## Context
 We are building a purely client-side React application to help users learn and practice walking bass lines. The system must evolve from a static visual aid (displaying standard notation and bass tablature) into a highly interactive tool that processes real-time audio via the user's microphone, detects pitch, and provides performance feedback.
